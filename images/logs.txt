@@ -1,0 +1,7 @@
+2019-03-17 OLD LOGS REMOVED
+2019-03-17 Activating window
+2019-03-17 Window activated
+2019-03-17 Taking screenshot
+2019-03-17 Screenshot saved
+2019-03-17 Parsing image
+2019-03-17 Image parsed
